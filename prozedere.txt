@@ -1,0 +1,9 @@
+
+
+check if shared memory 
+	wenn ned anlegen
+
+check if semaphor da
+
+	anlegen wenn ned
+
